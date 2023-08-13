@@ -1,0 +1,5 @@
+{{#user}}
+Name: Kazi Modasser Hossain
+Skills: HTML, CSS, JS, React.js, express.js, MongoDB, Firebase, Node.js, React Router, Axios Secure, JWT token, Stripe payment, Netlify, Vercel, VS code, GitHub, Bootstrap, Tailwind.
+Email: modasser.hossain05@gmail.com
+{{/user}}
